@@ -1,5 +1,5 @@
 {
-    "name": "phumin/promptparse",
+    "name": "royalty/promptparse",
     "description": "All-in-one PHP library for PromptPay & EMVCo QR Codes",
     "keywords": [
       "emvco",
